@@ -99,7 +99,3 @@ APK de debug: `app/build/outputs/apk/debug/app-debug.apk`
 | Obtener y mostrar lugares turísticos | 3 |
 | Aplicar filtros a la búsqueda | 2 |
 
-## Informe
-
-Documento de entrega: `Informe_Mapas_Lugares_Turisticos_Quevedo.docx`  
-Regenerar con: `python generar_informe.py`

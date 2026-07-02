@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GoogleMaps</string>
+    <string name="titulo_mapa_turistico">Mapa Lugares Turísticos Quevedo</string>
+    <string name="escudo_quevedo">Escudo de Quevedo</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="radio">Radio (m)</string>
+    <string name="categoria">Categoria</string>
+    <string name="subcategoria">Subcategoria</string>
+    <string name="todas">Todas</string>
 </resources>
